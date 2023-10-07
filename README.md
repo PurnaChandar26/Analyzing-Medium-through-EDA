@@ -59,9 +59,4 @@ Contributing
 
 Contributions from the community are welcome to further enhance and update this repository. If you have additional data, insights, or improvements to share, please feel free to contribute by submitting a pull request. Together, we can keep this resource up-to-date and valuable for everyone interested in the Indian startup ecosystem.
 
-License
--------
 
-This project is open-source and licensed under the [MIT License](https://chat.openai.com/c/LICENSE). You are free to use, modify, and distribute the data and code, provided you give proper attribution and include the same license when sharing any derived work. Please refer to the [LICENSE](https://chat.openai.com/c/LICENSE) file for more details.
-
-Thank you for exploring the "Top Funding Startups in India" project! We hope you find it insightful and valuable for your entrepreneurial and investment endeavors!
