@@ -4,16 +4,7 @@ Top Funding Startups in India
 
 Welcome to the "Top Funding Startups in India" repository! This project offers a comprehensive exploration of the Indian startup ecosystem, focusing on funding trends, prominent investors, key cities, favored industries, and funding types. Whether you're an investor, entrepreneur, or simply interested in the Indian startup landscape, you'll find valuable insights here.
 
-Table of Contents
------------------
 
-1.  [Introduction](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#introduction)
-2.  [Project Overview](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#project-overview)
-3.  [Data Source](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#data-source)
-4.  [Data Analysis](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#data-analysis)
-5.  [Key Findings](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#key-findings)
-6.  [Contributing](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#contributing)
-7.  [License](https://chat.openai.com/c/8af3a999-637a-4259-bda7-98efe6a1346c#license)
 
 Introduction
 ------------
