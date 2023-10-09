@@ -45,6 +45,5 @@ Here are some of the key findings from the analysis:
 -   Startups in India typically receive funding in the range of $16,000 to $19.4 million.
 -   Seed funding and private equity investments are the predominant funding types in the Indian startup landscape.
 
-Contributing
-------------
+
 
