@@ -48,6 +48,6 @@ Here are some of the key findings from the analysis:
 Contributing
 ------------
 
-Contributions from the community are welcome to further enhance and update this repository. If you have additional data, insights, or improvements to share, please feel free to contribute by submitting a pull request. Together, we can keep this resource up-to-date and valuable for everyone interested in the Indian startup ecosystem.
+Contributions from the community are welcome to further enhance and update this repository. If you have additional data, insights, or improvements to share, please feel free to contribute by submitting a pull request. Together, we can keep this resource up-to-date and valuable for everyone interested in the Indian startup ecosyste
 
 
