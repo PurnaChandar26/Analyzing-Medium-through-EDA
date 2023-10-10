@@ -5,7 +5,6 @@ Top Funding Startups in India
 Welcome to the "Top Funding Startups in India" repository! This project offers a comprehensive exploration of the Indian startup ecosystem, focusing on funding trends, prominent investors, key cities, favored industries, and funding types. Whether you're an investor, entrepreneur, or simply interested in the Indian startup landscape, you'll find valuable insights here.
 
 
-
 Introduction
 ------------
 
